@@ -1,6 +1,7 @@
-# Space_War  - THIS PROJECT IS STILL UNDER DEVELOPMENT
+# Space_War 
 This a simple attempt at making space invaders from the course:   
-TOTAL Python: Become an Advanced Python Developer in 16 days, Day 10  
+TOTAL Python: Become an Advanced Python Developer in 16 days, Day 10
+This needs some updates to improve the game, but this is a good framework. 
   
   
 Art Attribution:   
