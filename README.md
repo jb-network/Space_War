@@ -1,4 +1,4 @@
-# Space_War  
+# Space_War  - THIS PROJECT IS STILL UNDER DEVELOPMENT
 This a simple attempt at making space invaders from the course:   
 TOTAL Python: Become an Advanced Python Developer in 16 days, Day 10  
   
